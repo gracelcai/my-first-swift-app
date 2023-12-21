@@ -20,6 +20,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+- Spotify
+    - Creating playlists with friends
+    - Music recommendations
+- Pinterest
+    - Organizing pins into boards
+    - Shopping for items in pins
+- Uber
+    - Can input specific pick up and drop off locations
+    - Rating Uber drivers
 
 ## Notes
 
