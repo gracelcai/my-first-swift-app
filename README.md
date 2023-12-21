@@ -20,6 +20,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+### My Favorite Apps
 - Spotify
     - Creating playlists with friends
     - Music recommendations
@@ -29,7 +30,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Uber
     - Can input specific pick up and drop off locations
     - Rating Uber drivers
-
+### My App Idea
+I want to make an app to keep track of  workouts. The main feature would be to input different exercises such as barbell squats with additional information about how many sets/reps the user can complete and how much weight they can lift. The app would track a user's progress and recommend workout routines. Users would also be able to share workout progress and routines and participate in a friendly competition to motivate each other to be more active.
 ## Notes
 
 Some buttons in XCode were hard to find such as "Adjust Editor Options".
