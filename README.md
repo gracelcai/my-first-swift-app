@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Check out my app!](https://imgur.com/a/XbEgt2T)
+![](https://i.imgur.com/R9aCOWe.gif)
 
 ## App Brainstorming (Step 4)
 ### My Favorite Apps
